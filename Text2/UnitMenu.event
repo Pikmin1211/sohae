@@ -1,0 +1,7 @@
+#define SetUnitMenuString(id, string) "PUSH; ORG 0xC045D0 + (id * 36); POIN string; POP"
+
+SetUnitMenuString(1,AttackText)	
+
+ALIGN 4
+AttackText:
+MenuString(Attack)

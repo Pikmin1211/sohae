@@ -1,0 +1,73 @@
+	PUSH
+
+	ORG 0xC04D6A // Unit menu width
+	BYTE 0x8
+
+	ORG 0xC04DB2 // Map menu width
+	BYTE 0x7
+
+	ORG 0x22782 // Discard menu width, put in 2nd highest byte of r0
+	SHORT 0x2007 // mov r0 #0x7
+	SHORT 0x400 // lsl r0, #0x10
+
+	ORG 0x832EE // Weapon Rank draw dist
+	BYTE 0x20
+
+	ORG 0x83378 // Staff Rank draw dist
+	BYTE 0x1B
+
+	ORG 0x83284 // Weapon Range draw dist
+	BYTE 0x30
+
+	ORG 0x80BD2
+	BYTE 0x0 // Str display x offset
+
+	ORG 0x41CBC1
+	BYTE 0x0 // Skill display x offset
+
+	// Weapon Rank text
+	ORG 0x41D014
+	WORD 0 // Sword
+	ORG 0x41D020
+	WORD 0 // Lance
+	ORG 0x41D028
+	WORD 0 // Axe
+	ORG 0x41D030
+	WORD 0 // Bow
+	ORG 0x41D03C
+	WORD 0 // Staff
+	ORG 0x41D048
+	WORD 0 // Anima
+	ORG 0x41D058
+	WORD 0 // Light
+	ORG 0x41D068
+	WORD 0 // Dark
+
+	ORG 0x81168
+	BYTE 0x3A // weapon rank bar x offset
+
+	ORG 0x810E4
+	BYTE 0x4 // weapon rank text x offset
+
+	ORG 0x80DC2 // center affinity icon
+	SHORT 0x1CA0 // mov r0, r4, #2
+
+	ORG 0x80DE0 // dont draw affinity text
+	SHORT 0x46C0 0x46C0 // nop
+
+	ORG 0x83300 // Weapon Range value draw dist
+	BYTE 0x40
+
+	// realign weapon r text
+	ORG 0x83312
+	BYTE 0x88
+	ORG 0x8334A
+	BYTE 0x88
+	ORG 0x83290
+	BYTE 0x68
+	ORG 0x832B6
+	BYTE 0x68
+	ORG 0x83338
+	BYTE 0x58
+
+	POP

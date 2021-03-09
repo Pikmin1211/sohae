@@ -1,0 +1,5 @@
+#define FreeSpace 0x1A0EA88
+#define Freespace FreeSpace
+#define Free_Space FreeSpace
+
+#define TextTable 0xBBB370

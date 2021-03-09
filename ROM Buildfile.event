@@ -1,0 +1,19 @@
+#ifdef _FE7_
+
+	#include "Definitions/_Master Definition Installer.event"
+
+	ORG FreeSpace
+
+	#include "EAstdlib.event"
+	#include "Extensions/Hack Installation.txt"
+
+	#include "EngineHacks/_MasterHackInstaller.event"
+
+	#include "Text/Install Text Data.event"
+
+	#include "Text2/_SpecialText.event"
+
+    MESSAGE Used free space ends at currentOffset
+#else
+    ERROR You are not assembling FE7 events!
+#endif

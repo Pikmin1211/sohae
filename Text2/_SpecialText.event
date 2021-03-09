@@ -1,0 +1,5 @@
+#define MenuString(stuff) "BYTE 0x20 0x20; String(stuff) ; BYTE 0x00"
+#define EndString(stuff) "String(stuff) ; BYTE 0x00"
+
+#include "UnitMenu.event"
+#include "StatScreen.event"

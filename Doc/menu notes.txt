@@ -1,0 +1,71 @@
+804ACC8 - draw something
+
+804A4CC - draw window
+r2 = width
+
+804ACFA - gets width from somewhere in ram (2024FFE after reset) (2024FD0)
+
+804ABB8 - sets parameters in r2 (from r10) to above ram location
+
+804AA70 - paramaters passed thru r1
+
+804AA0C - Ssome function, r0 - hex address of menu info
+
+C04D6A - Unit menu width
+
+22782 - constructs item use menu width
+
+mov r0, #0x7
+lsl r0, #64
+
+8083268 - draw weapon r text?
+80832E0 - draw weapon r text stats?
+808335C - draw staff r text?
+80833B4 - draw item r text?
+
+0x832EE - r text weapon rank draw dist
+0x8337A - r text staff rank draw dist
+
+0x8080BF8 - draw stat screen p1
+0x8080800 - draw some text on stat screen
+
+0x80C0C28
+
+0x8080BCC - load str string
+0x41CD8C - str string
+0x41CD84 - mag string
+0x8080B9A - load mag string
+0x80BD2 - str x offset
+0x41CBC1 - skl x offset
+
+0808116c	Status 3 Weapon Level	{J}
+
+0x80810D8 - draw page 3 weapon icons?
+0x80811EE - draw page 3 weapon bars?
+
+// 200323C @ 8081160 (also offsets text on the bar)
+
+0x08016E8C - r6 = rank bar x offset
+0x80810A8 - r1 - x offset (bar and icon)
+(put in r6 @ 80810B6)
+
+0x80810A8 - Weapon rank icon and bar drawing (called at 0x80811E6)
+r1 = x offset
+
+80810E4 - weapon rank text offset
+
+8080600 @ 8081148 - draw weapon rank bar
+r2 - tile offset
+
+0x8081168 - wrank bar x offset?
+
+08004D04	Stat Screens DrawIcon	{J}
+
+[2024FC0..2024FF0]!!
+
+0x804ACFA - load width of map window
+
+83312, 8334a = 0x90
+83290, 832b6  = 0x70
+83300 = 0x48
+83338 = 0x60

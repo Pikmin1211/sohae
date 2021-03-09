@@ -1,0 +1,130 @@
+PUSH // wacky str/mag because it depends on the unit
+ORG 0x80DF8
+POIN StrText
+ORG 0x80BC0
+POIN MagText
+POP
+
+ALIGN 4
+StrText:
+String(Str)
+BYTE 0x0 0x0
+
+ALIGN 4
+MagText:
+String(Mag)
+BYTE 0x0 0x0
+
+// these pointers are to pointers to text... thanks IS
+#define StatText(id, string) "PUSH; ORG 0x41CBB8 + (id * 16) + 0xC; POIN string; POP"
+
+StatText(0,SkillText)
+StatText(1,SpdText)
+StatText(2,LuckText)
+StatText(3,DefText)
+StatText(4,ResText)
+StatText(5,MoveText)
+StatText(6,ConText)
+StatText(7,AidText)
+StatText(8,TrvText)
+StatText(9,AffinText)
+StatText(10,CondText)
+
+ALIGN 4
+SkillText:
+POIN SkillTextRaw
+
+ALIGN 4
+SpdText:
+POIN SpdTextRaw
+
+ALIGN 4
+LuckText:
+POIN LuckTextRaw
+
+ALIGN 4
+DefText:
+POIN DefTextRaw
+
+ALIGN 4
+ResText:
+POIN ResTextRaw
+
+ALIGN 4
+MoveText:
+POIN MoveTextRaw
+
+ALIGN 4
+ConText:
+POIN ConTextRaw
+
+ALIGN 4
+AidText:
+POIN AidTextRaw
+
+ALIGN 4
+TrvText:
+POIN TrvTextRaw
+
+ALIGN 4
+AffinText:
+POIN AffinTextRaw
+
+ALIGN 4
+CondText:
+POIN CondTextRaw
+
+ALIGN 4
+SkillTextRaw:
+String(Skill)
+BYTE 0x0 0x0
+
+ALIGN 4
+SpdTextRaw:
+String(Spd)
+BYTE 0x0 0x0
+
+ALIGN 4
+LuckTextRaw:
+String(Luck)
+BYTE 0x0 0x0
+
+ALIGN 4
+DefTextRaw:
+String(Def)
+BYTE 0x0 0x0
+
+ALIGN 4
+ResTextRaw:
+String(Res)
+BYTE 0x0 0x0
+
+ALIGN 4
+MoveTextRaw:
+String(Move)
+BYTE 0x0 0x0
+
+ALIGN 4
+ConTextRaw:
+String(Con)
+BYTE 0x0 0x0
+
+ALIGN 4
+AidTextRaw:
+String(Aid)
+BYTE 0x0 0x0
+
+ALIGN 4
+TrvTextRaw:
+String(Trv)
+BYTE 0x0 0x0
+
+ALIGN 4
+AffinTextRaw:
+String(Affin)
+BYTE 0x0 0x0
+
+ALIGN 4
+CondTextRaw:
+String(Cond)
+BYTE 0x0 0x0

@@ -1,0 +1,6 @@
+PUSH
+	ORG $4240
+	#incbin "4240.bin"
+	ORG $13324
+	#incbin "13324.bin"
+POP

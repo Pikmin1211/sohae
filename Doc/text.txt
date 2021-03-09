@@ -1,0 +1,12 @@
+0x5EA - options menu
+
+0x735 - terrain
+
+0x776 - ? (link arena?)
+
+0x7A2 - Tactician?
+
+0x10E6 - stats
+
+0x1105 - weapon types
+0x1111 - ranks
