@@ -1,0 +1,93 @@
+PUSH
+
+ORG 0x15A38
+POIN SystemIconGfx
+
+ORG 0x30AB0
+POIN PrepButtonGfx
+
+ORG 0x32B34
+POIN InfoSelectGfx
+
+ORG 0x49A34
+POIN MenuTextGfx
+ORG 0xA4520
+POIN MenuTextGfx
+ORG 0xA5A28
+POIN MenuTextGfx
+
+ORG 0xA457C
+POIN ExtraMenuGfx
+ORG 0xA50E8
+POIN ExtraMenuGfx
+
+ORG 0x81EBC
+POIN StatusScreenGfx
+
+ORG 0x865E8
+POIN BadStatusGfx
+
+ORG 0x87C54
+POIN ChapterStatusGfx
+
+ORG 0x8A2E8
+POIN UnitMenuGfx
+
+ORG 0x8F224
+POIN StartSelectGfx
+
+ORG 0xAC97C
+POIN SoundRoomGfx
+
+ORG 0xBA728
+POIN RankingGfx
+
+POP
+
+ALIGN 4
+SystemIconGfx:
+#incbin "Dmp/193E90.dmp"
+
+ALIGN 4
+PrepButtonGfx:
+#incbin "Dmp/405170.dmp"
+
+ALIGN 4
+InfoSelectGfx:
+#incbin "Dmp/405450.dmp"
+
+ALIGN 4
+MenuTextGfx:
+#incbin "Dmp/4120A0_Edit.dmp"
+
+ALIGN 4
+StatusScreenGfx:
+#incbin "Dmp/3FCE8C.dmp"
+
+ALIGN 4
+BadStatusGfx:
+#incbin "Dmp/403BC4.dmp"
+
+ALIGN 4
+ChapterStatusGfx:
+#incbin "Dmp/403410.dmp"
+
+ALIGN 4
+UnitMenuGfx:
+#incbin "Dmp/40D3F8.dmp"
+
+ALIGN 4
+StartSelectGfx:
+#incbin "Dmp/40E0C0.dmp"
+
+ALIGN 4
+ExtraMenuGfx:
+#incbin "Dmp/4130A4_Edit.dmp"
+
+ALIGN 4
+SoundRoomGfx:
+#incbin "Dmp/413F00.dmp"
+
+ALIGN 4
+RankingGfx:
+#incbin "Dmp/5DE58C.dmp"

@@ -345,3 +345,15 @@
 09A13D24 AnimaText
 09A13D2C LightText
 09A13D34 DarkText
+09A13D3C SystemIconGfx
+09A141C8 PrepButtonGfx
+09A144A8 InfoSelectGfx
+09A146C8 MenuTextGfx
+09A15A9C StatusScreenGfx
+09A160D4 BadStatusGfx
+09A1684C ChapterStatusGfx
+09A16D18 UnitMenuGfx
+09A17604 StartSelectGfx
+09A178AC ExtraMenuGfx
+09A184C8 SoundRoomGfx
+09A18E0C RankingGfx

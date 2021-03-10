@@ -13,6 +13,8 @@
 
 	#include "Text2/_SpecialText.event"
 
+	#include "Graphics/_MasterGraphicInstaller.event"
+
     MESSAGE Used free space ends at currentOffset
 #else
     ERROR You are not assembling FE7 events!
