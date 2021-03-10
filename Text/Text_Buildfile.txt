@@ -1,1 +1,2 @@
 #include "Data Text/Data Text.txt"
+#include "Menu Text/Menu Text.txt"

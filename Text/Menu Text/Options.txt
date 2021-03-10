@@ -1,0 +1,179 @@
+#0x5EA OptionsAnimation
+Animation[X]
+
+## OptionsTerrainWindow
+Terrain Window[X]
+
+## OptionsUnitWindow
+Unit Window[X]
+
+## OptionsBattlePreview
+Battle Preview[X]
+
+## OptionsSubtitleHelp
+Subtitle Help[X]
+
+## OptionsAutoCursor
+Auto Cursor[X]
+
+## OptionsMessageSpeed
+Message Speed[X]
+
+## OptionsGameSpeed
+Game Speed[X]
+
+## OptionsBGM
+BGM[X]
+
+## OptionsSoundEffects
+Sound Effects[X]
+
+## OptionsWindowStyle
+Window Style[X]
+
+## OptionsCPULevel
+CPU Level[X]
+
+## OptionsAutoEnd
+Auto End[X]
+
+## OptionsUnitColor
+Unit Color[X]
+
+## OptionsGoalWindow
+Goal Window[X]
+
+## OptionsExplanationWindow
+Explanation Window[X]
+
+## OptionsRankDisplay
+Rank Display[X]
+
+## OptionsAnimationHelp
+Show battle animations.[X]
+
+## OptionsAnimationHelp2
+Show battle animations (with BG).[X]
+
+## OptionsAnimationHelp3
+Do not show battle animations.[X]
+
+## OptionsAnimationHelp4
+Show battle animations (per unit).[X]
+
+## OptionsGameSpeedHelp
+Default unit movement speed.[X]
+
+## OptionsGameSpeedHelp2
+Fast unit movement speed.[X]
+
+## OptionsMessageSpeedHelp
+Display text slowly.[X]
+
+## OptionsMessageSpeedHelp2
+Display text at normal speed.[X]
+
+## OptionsMessageSpeedHelp3
+Display text quickly.[X]
+
+## OptionsMessageSpeedHelp4
+Display text instantly.[X]
+
+## OptionsTerrainWindowHelp
+Sets the display of the terrain window.[X]
+
+## OptionsUnitWindowHelp
+Display the unit window.[X]
+
+## OptionsUnitWindowHelp2
+Display the burst unit window.[X]
+
+## OptionsUnitWindowHelp3
+Do not display the unit window.[X]
+
+## OptionsBattlePreviewHelp
+Display the battle preview.[X]
+
+## OptionsBattlePreviewHelp2
+Display the detailed battle preview.[X]
+
+## OptionsBattlePreviewHelp3
+Do not display the battle preview.[X]
+
+## OptionsSubtitleHelpHelp
+Set the display of help text.[X]
+
+## OptionsAutoCursorHelp
+Move the cursor to the main character.[X]
+
+## OptionsAutoEndHelp
+End the turn after all units moved.[X]
+
+## OptionsBGMHelp
+Play BGM.[X]
+
+## OptionsSoundEffectsHelp
+Play sound effects.[X]
+
+## OptionsWindowStyleHelp
+Set the menu window style.[X]
+
+## OptionsCPULevelHelp
+Set the difficulty of the CPU.[X]
+
+## OptionsUnitColorHelp
+Set the use of unit palettes.[X]
+
+## OptionsGoalWindowHelp
+Set the display of the goal window.[X]
+
+## OptionsExplanationWindowHelp
+Set the display of the explanation window.[X]
+
+## OptionsRankDisplayHelp
+Set the rank display.[X]
+
+## OptionsOn
+On[X]
+
+## OptionsOff
+Off[X]
+
+## Options1
+1[X]
+
+## Options2
+2[X]
+
+## Options3
+3[X]
+
+## Options4
+4[X]
+
+## OptionsSlow
+Slow[X]
+
+## OptionsNormal
+Norm[X]
+
+## OptionsFast
+Fast[X]
+
+## OptionsMax
+Max[X]
+
+## OptionsUnit
+Unit[X]
+
+## OptionsSimple
+Smp[X]
+
+## OptionsDetail
+Dtl[X]
+
+## OptionsPanel
+Panel[X]
+
+## OptionsBurst
+Burst[X]

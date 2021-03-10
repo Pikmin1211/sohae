@@ -128,3 +128,185 @@ ALIGN 4
 CondTextRaw:
 String(Cond)
 BYTE 0x0 0x0
+
+#define ItemStatText(id, string) "PUSH; ORG 0x41CC78 + (id * 16) + 0xC; POIN string; POP"
+
+ItemStatText(0,AtkText)
+ItemStatText(1,HitText)
+ItemStatText(2,RngText)
+ItemStatText(3,CritText)
+ItemStatText(4,AvoText)
+
+ALIGN 4
+AtkText:
+POIN AtkTextRaw
+
+ALIGN 4
+HitText:
+POIN HitTextRaw
+
+ALIGN 4
+RngText:
+POIN RngTextRaw
+
+ALIGN 4
+CritText:
+POIN CritTextRaw
+
+ALIGN 4
+AvoText:
+POIN AvoTextRaw
+
+ALIGN 4
+AtkTextRaw:
+String(Atk)
+BYTE 0x0 0x0
+
+ALIGN 4
+HitTextRaw:
+String(Hit)
+BYTE 0x0 0x0
+
+ALIGN 4
+RngTextRaw:
+String(Rng)
+BYTE 0x0 0x0
+
+ALIGN 4
+CritTextRaw:
+String(Crit)
+BYTE 0x0 0x0
+
+ALIGN 4
+AvoTextRaw:
+String(Avo)
+BYTE 0x0 0x0
+
+PUSH // battle preview
+
+ORG 0x1C988C
+String(AS)
+BYTE 0x0 0x0
+
+ORG 0x1C9894
+String(Def)
+BYTE 0x0 0x0
+
+ORG 0x1C989C
+String(Atk)
+BYTE 0x0 0x0
+
+ORG 0x1C98A4
+String(Crit)
+BYTE 0x0 0x0
+
+ORG 0x1C98AC
+String(Hit)
+BYTE 0x0 0x0
+
+ORG 0x1C98B4
+String(Atk)
+BYTE 0x0 0x0
+
+POP
+
+PUSH // item preview
+
+ORG 0x1C9350
+String(Aff)
+BYTE 0x0 0x0
+
+ORG 0x1C9358
+String(Atk)
+BYTE 0x0 0x0
+
+ORG 0x1C9360
+String(Hit)
+BYTE 0x0 0x0
+
+ORG 0x1C9368
+String(Crit)
+BYTE 0x0 0x0
+
+ORG 0x1C9370
+String(Avo)
+BYTE 0x0 0x0
+
+POP
+
+PUSH // item r text
+
+ORG 0x41D06C
+String(Rng)
+BYTE 0x0 0x0
+
+ORG 0x41D074
+String(Wt)
+BYTE 0x0 0x0
+
+ORG 0x41D07C
+String(Mt)
+BYTE 0x0 0x0
+
+ORG 0x41D084
+String(Hit)
+BYTE 0x0 0x0
+
+ORG 0x41D08C
+String(Crit)
+BYTE 0x0 0x0
+
+ORG 0x41D094
+String(Staff)
+BYTE 0x0 0x0
+
+POP
+
+PUSH // Weapon types
+
+ORG 0x1C91A4
+POIN SwordText
+POIN LanceText
+POIN AxeText
+POIN BowText
+POIN StaffText
+POIN AnimaText
+POIN LightText
+POIN DarkText
+
+POP
+
+ALIGN 4
+SwordText:
+String(Sword)
+BYTE 0x0 0x0
+
+ALIGN 4
+LanceText:
+String(Lance)
+BYTE 0x0 0x0
+
+ALIGN 4
+AxeText:
+String(Axe)
+BYTE 0x0 0x0
+
+ALIGN 4
+BowText:
+String(Bow)
+BYTE 0x0 0x0
+
+ALIGN 4
+AnimaText:
+String(Anima)
+BYTE 0x0 0x0
+
+ALIGN 4
+LightText:
+String(Light)
+BYTE 0x0 0x0
+
+ALIGN 4
+DarkText:
+String(Dark)
+BYTE 0x0 0x0

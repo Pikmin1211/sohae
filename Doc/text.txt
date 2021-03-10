@@ -10,3 +10,14 @@
 
 0x1105 - weapon types
 0x1111 - ranks
+
+
+battle preview
+
+91 AE 90 AB - "Atk" (in jp)
+96 BD 92 86 - "Hit" (in jp)
+
+1C9350 - weapon select text (aff, atk, hit...)
+1C98B4 - battle prev text (dmg, hit, crit)
+1C9844 - ?
+41D06C - ?

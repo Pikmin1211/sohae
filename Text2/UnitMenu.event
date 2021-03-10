@@ -1,7 +1,189 @@
 #define SetUnitMenuString(id, string) "PUSH; ORG 0xC045D0 + (id * 36); POIN string; POP"
 
-SetUnitMenuString(1,AttackText)	
+SetUnitMenuString(0,SeizeText)
+SetUnitMenuString(1,AttackText)
+SetUnitMenuString(2,AttackText)	
+SetUnitMenuString(3,StaffText)
+SetUnitMenuString(4,RideText)
+SetUnitMenuString(5,ExitText)
+SetUnitMenuString(6,PlayText)
+SetUnitMenuString(7,DanceText)
+SetUnitMenuString(8,StealText)
+SetUnitMenuString(9,TalkText)
+SetUnitMenuString(10,SupportText)
+SetUnitMenuString(11,VisitText)
+SetUnitMenuString(12,ChestText)
+SetUnitMenuString(13,DoorText)
+SetUnitMenuString(14,ArmoryText)
+SetUnitMenuString(15,VendorText)
+SetUnitMenuString(16,SecretText)
+SetUnitMenuString(17,ArenaText)
+SetUnitMenuString(18,RescueText)
+SetUnitMenuString(19,DropText)
+SetUnitMenuString(20,TakeText)
+SetUnitMenuString(21,GiveText)
+SetUnitMenuString(22,ItemText)
+SetUnitMenuString(23,TradeText)
+SetUnitMenuString(24,SupplyText)
+SetUnitMenuString(25,StatusText)
+SetUnitMenuString(26,WaitText)
+
+ALIGN 4
+SeizeText:
+MenuString(Seize)
 
 ALIGN 4
 AttackText:
 MenuString(Attack)
+
+ALIGN 4
+StaffText:
+MenuString(Staff)
+
+ALIGN 4
+RideText:
+MenuString(Ride)
+
+ALIGN 4
+ExitText:
+MenuString(Exit)
+
+ALIGN 4
+PlayText:
+MenuString(Play)
+
+ALIGN 4
+DanceText:
+MenuString(Dance)
+
+ALIGN 4
+StealText:
+MenuString(Steal)
+
+ALIGN 4
+TalkText:
+MenuString(Talk)
+
+ALIGN 4
+SupportText:
+MenuString(Support)
+
+ALIGN 4
+VisitText:
+MenuString(Visit)
+
+ALIGN 4
+ChestText:
+MenuString(Chest)
+
+ALIGN 4
+DoorText:
+MenuString(Door)
+
+ALIGN 4
+ArmoryText:
+MenuString(Armory)
+
+ALIGN 4
+VendorText:
+MenuString(Vendor)
+
+ALIGN 4
+SecretText:
+MenuString(Secret)
+
+ALIGN 4
+ArenaText:
+MenuString(Arena)
+
+ALIGN 4
+RescueText:
+MenuString(Rescue)
+
+ALIGN 4
+DropText:
+MenuString(Drop)
+
+ALIGN 4
+TakeText:
+MenuString(Take)
+
+ALIGN 4
+GiveText:
+MenuString(Give)
+
+ALIGN 4
+ItemText:
+MenuString(Item)
+
+ALIGN 4
+TradeText:
+MenuString(Trade)
+
+ALIGN 4
+SupplyText:
+MenuString(Supply)
+
+ALIGN 4
+StatusText:
+MenuString(Status)
+
+ALIGN 4
+WaitText:
+MenuString(Wait)
+
+#define SetItemMenuString(id, string) "PUSH; ORG 0xC04150 + (id * 36); POIN string; POP"
+
+SetItemMenuString(0,UseText)
+SetItemMenuString(1,EquipText)
+SetItemMenuString(2,TradeText)
+SetItemMenuString(3,DiscardText)
+
+ALIGN 4
+UseText:
+MenuString(Use)
+
+ALIGN 4
+EquipText:
+MenuString(Equip)
+
+ALIGN 4
+DiscardText:
+MenuString(Discard)
+
+#define SetMapMenuString(id, string) "PUSH; ORG 0xC04A08 + (id * 36); POIN string; POP"
+
+SetMapMenuString(0,UnitText)
+SetMapMenuString(1,StatusText)
+SetMapMenuString(2,OptionsText)
+SetMapMenuString(3,SuspendText)
+SetMapMenuString(4,EndText)
+
+ALIGN 4
+UnitText:
+MenuString(Unit)
+
+ALIGN 4
+OptionsText:
+MenuString(Options)
+
+ALIGN 4
+SuspendText:
+MenuString(Suspend)
+
+ALIGN 4
+EndText:
+MenuString(End)
+
+#define SetYesNoMenuString(id, string) "PUSH; ORG 0xC040E4 + (id * 36); POIN string; POP"
+
+SetYesNoMenuString(0,YesText)
+SetYesNoMenuString(1,NoText)
+
+ALIGN 4
+YesText:
+MenuString(Yes)
+
+ALIGN 4
+NoText:
+MenuString(No)

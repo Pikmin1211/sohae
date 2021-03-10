@@ -13,6 +13,246 @@ __TEXTPROCESS4E4:
 #incext ParseFile ".TextEntries\text_buildfile4E4.fetxt"
 setText($4E4, __TEXTPROCESS4E4)
 
+__TEXTPROCESS5EA:
+#incext ParseFile ".TextEntries\text_buildfileOptionsAnimation.fetxt"
+setText($5EA, __TEXTPROCESS5EA)
+
+__TEXTPROCESS5EB:
+#incext ParseFile ".TextEntries\text_buildfileOptionsTerrainWindow.fetxt"
+setText($5EB, __TEXTPROCESS5EB)
+
+__TEXTPROCESS5EC:
+#incext ParseFile ".TextEntries\text_buildfileOptionsUnitWindow.fetxt"
+setText($5EC, __TEXTPROCESS5EC)
+
+__TEXTPROCESS5ED:
+#incext ParseFile ".TextEntries\text_buildfileOptionsBattlePreview.fetxt"
+setText($5ED, __TEXTPROCESS5ED)
+
+__TEXTPROCESS5EE:
+#incext ParseFile ".TextEntries\text_buildfileOptionsSubtitleHelp.fetxt"
+setText($5EE, __TEXTPROCESS5EE)
+
+__TEXTPROCESS5EF:
+#incext ParseFile ".TextEntries\text_buildfileOptionsAutoCursor.fetxt"
+setText($5EF, __TEXTPROCESS5EF)
+
+__TEXTPROCESS5F0:
+#incext ParseFile ".TextEntries\text_buildfileOptionsMessageSpeed.fetxt"
+setText($5F0, __TEXTPROCESS5F0)
+
+__TEXTPROCESS5F1:
+#incext ParseFile ".TextEntries\text_buildfileOptionsGameSpeed.fetxt"
+setText($5F1, __TEXTPROCESS5F1)
+
+__TEXTPROCESS5F2:
+#incext ParseFile ".TextEntries\text_buildfileOptionsBGM.fetxt"
+setText($5F2, __TEXTPROCESS5F2)
+
+__TEXTPROCESS5F3:
+#incext ParseFile ".TextEntries\text_buildfileOptionsSoundEffects.fetxt"
+setText($5F3, __TEXTPROCESS5F3)
+
+__TEXTPROCESS5F4:
+#incext ParseFile ".TextEntries\text_buildfileOptionsWindowStyle.fetxt"
+setText($5F4, __TEXTPROCESS5F4)
+
+__TEXTPROCESS5F5:
+#incext ParseFile ".TextEntries\text_buildfileOptionsCPULevel.fetxt"
+setText($5F5, __TEXTPROCESS5F5)
+
+__TEXTPROCESS5F6:
+#incext ParseFile ".TextEntries\text_buildfileOptionsAutoEnd.fetxt"
+setText($5F6, __TEXTPROCESS5F6)
+
+__TEXTPROCESS5F7:
+#incext ParseFile ".TextEntries\text_buildfileOptionsUnitColor.fetxt"
+setText($5F7, __TEXTPROCESS5F7)
+
+__TEXTPROCESS5F8:
+#incext ParseFile ".TextEntries\text_buildfileOptionsGoalWindow.fetxt"
+setText($5F8, __TEXTPROCESS5F8)
+
+__TEXTPROCESS5F9:
+#incext ParseFile ".TextEntries\text_buildfileOptionsExplanationWindow.fetxt"
+setText($5F9, __TEXTPROCESS5F9)
+
+__TEXTPROCESS5FA:
+#incext ParseFile ".TextEntries\text_buildfileOptionsRankDisplay.fetxt"
+setText($5FA, __TEXTPROCESS5FA)
+
+__TEXTPROCESS5FB:
+#incext ParseFile ".TextEntries\text_buildfileOptionsAnimationHelp.fetxt"
+setText($5FB, __TEXTPROCESS5FB)
+
+__TEXTPROCESS5FC:
+#incext ParseFile ".TextEntries\text_buildfileOptionsAnimationHelp2.fetxt"
+setText($5FC, __TEXTPROCESS5FC)
+
+__TEXTPROCESS5FD:
+#incext ParseFile ".TextEntries\text_buildfileOptionsAnimationHelp3.fetxt"
+setText($5FD, __TEXTPROCESS5FD)
+
+__TEXTPROCESS5FE:
+#incext ParseFile ".TextEntries\text_buildfileOptionsAnimationHelp4.fetxt"
+setText($5FE, __TEXTPROCESS5FE)
+
+__TEXTPROCESS5FF:
+#incext ParseFile ".TextEntries\text_buildfileOptionsGameSpeedHelp.fetxt"
+setText($5FF, __TEXTPROCESS5FF)
+
+__TEXTPROCESS600:
+#incext ParseFile ".TextEntries\text_buildfileOptionsGameSpeedHelp2.fetxt"
+setText($600, __TEXTPROCESS600)
+
+__TEXTPROCESS601:
+#incext ParseFile ".TextEntries\text_buildfileOptionsMessageSpeedHelp.fetxt"
+setText($601, __TEXTPROCESS601)
+
+__TEXTPROCESS602:
+#incext ParseFile ".TextEntries\text_buildfileOptionsMessageSpeedHelp2.fetxt"
+setText($602, __TEXTPROCESS602)
+
+__TEXTPROCESS603:
+#incext ParseFile ".TextEntries\text_buildfileOptionsMessageSpeedHelp3.fetxt"
+setText($603, __TEXTPROCESS603)
+
+__TEXTPROCESS604:
+#incext ParseFile ".TextEntries\text_buildfileOptionsMessageSpeedHelp4.fetxt"
+setText($604, __TEXTPROCESS604)
+
+__TEXTPROCESS605:
+#incext ParseFile ".TextEntries\text_buildfileOptionsTerrainWindowHelp.fetxt"
+setText($605, __TEXTPROCESS605)
+
+__TEXTPROCESS606:
+#incext ParseFile ".TextEntries\text_buildfileOptionsUnitWindowHelp.fetxt"
+setText($606, __TEXTPROCESS606)
+
+__TEXTPROCESS607:
+#incext ParseFile ".TextEntries\text_buildfileOptionsUnitWindowHelp2.fetxt"
+setText($607, __TEXTPROCESS607)
+
+__TEXTPROCESS608:
+#incext ParseFile ".TextEntries\text_buildfileOptionsUnitWindowHelp3.fetxt"
+setText($608, __TEXTPROCESS608)
+
+__TEXTPROCESS609:
+#incext ParseFile ".TextEntries\text_buildfileOptionsBattlePreviewHelp.fetxt"
+setText($609, __TEXTPROCESS609)
+
+__TEXTPROCESS60A:
+#incext ParseFile ".TextEntries\text_buildfileOptionsBattlePreviewHelp2.fetxt"
+setText($60A, __TEXTPROCESS60A)
+
+__TEXTPROCESS60B:
+#incext ParseFile ".TextEntries\text_buildfileOptionsBattlePreviewHelp3.fetxt"
+setText($60B, __TEXTPROCESS60B)
+
+__TEXTPROCESS60C:
+#incext ParseFile ".TextEntries\text_buildfileOptionsSubtitleHelpHelp.fetxt"
+setText($60C, __TEXTPROCESS60C)
+
+__TEXTPROCESS60D:
+#incext ParseFile ".TextEntries\text_buildfileOptionsAutoCursorHelp.fetxt"
+setText($60D, __TEXTPROCESS60D)
+
+__TEXTPROCESS60E:
+#incext ParseFile ".TextEntries\text_buildfileOptionsAutoEndHelp.fetxt"
+setText($60E, __TEXTPROCESS60E)
+
+__TEXTPROCESS60F:
+#incext ParseFile ".TextEntries\text_buildfileOptionsBGMHelp.fetxt"
+setText($60F, __TEXTPROCESS60F)
+
+__TEXTPROCESS610:
+#incext ParseFile ".TextEntries\text_buildfileOptionsSoundEffectsHelp.fetxt"
+setText($610, __TEXTPROCESS610)
+
+__TEXTPROCESS611:
+#incext ParseFile ".TextEntries\text_buildfileOptionsWindowStyleHelp.fetxt"
+setText($611, __TEXTPROCESS611)
+
+__TEXTPROCESS612:
+#incext ParseFile ".TextEntries\text_buildfileOptionsCPULevelHelp.fetxt"
+setText($612, __TEXTPROCESS612)
+
+__TEXTPROCESS613:
+#incext ParseFile ".TextEntries\text_buildfileOptionsUnitColorHelp.fetxt"
+setText($613, __TEXTPROCESS613)
+
+__TEXTPROCESS614:
+#incext ParseFile ".TextEntries\text_buildfileOptionsGoalWindowHelp.fetxt"
+setText($614, __TEXTPROCESS614)
+
+__TEXTPROCESS615:
+#incext ParseFile ".TextEntries\text_buildfileOptionsExplanationWindowHelp.fetxt"
+setText($615, __TEXTPROCESS615)
+
+__TEXTPROCESS616:
+#incext ParseFile ".TextEntries\text_buildfileOptionsRankDisplayHelp.fetxt"
+setText($616, __TEXTPROCESS616)
+
+__TEXTPROCESS617:
+#incext ParseFile ".TextEntries\text_buildfileOptionsOn.fetxt"
+setText($617, __TEXTPROCESS617)
+
+__TEXTPROCESS618:
+#incext ParseFile ".TextEntries\text_buildfileOptionsOff.fetxt"
+setText($618, __TEXTPROCESS618)
+
+__TEXTPROCESS619:
+#incext ParseFile ".TextEntries\text_buildfileOptions1.fetxt"
+setText($619, __TEXTPROCESS619)
+
+__TEXTPROCESS61A:
+#incext ParseFile ".TextEntries\text_buildfileOptions2.fetxt"
+setText($61A, __TEXTPROCESS61A)
+
+__TEXTPROCESS61B:
+#incext ParseFile ".TextEntries\text_buildfileOptions3.fetxt"
+setText($61B, __TEXTPROCESS61B)
+
+__TEXTPROCESS61C:
+#incext ParseFile ".TextEntries\text_buildfileOptions4.fetxt"
+setText($61C, __TEXTPROCESS61C)
+
+__TEXTPROCESS61D:
+#incext ParseFile ".TextEntries\text_buildfileOptionsSlow.fetxt"
+setText($61D, __TEXTPROCESS61D)
+
+__TEXTPROCESS61E:
+#incext ParseFile ".TextEntries\text_buildfileOptionsNormal.fetxt"
+setText($61E, __TEXTPROCESS61E)
+
+__TEXTPROCESS61F:
+#incext ParseFile ".TextEntries\text_buildfileOptionsFast.fetxt"
+setText($61F, __TEXTPROCESS61F)
+
+__TEXTPROCESS620:
+#incext ParseFile ".TextEntries\text_buildfileOptionsMax.fetxt"
+setText($620, __TEXTPROCESS620)
+
+__TEXTPROCESS621:
+#incext ParseFile ".TextEntries\text_buildfileOptionsUnit.fetxt"
+setText($621, __TEXTPROCESS621)
+
+__TEXTPROCESS622:
+#incext ParseFile ".TextEntries\text_buildfileOptionsSimple.fetxt"
+setText($622, __TEXTPROCESS622)
+
+__TEXTPROCESS623:
+#incext ParseFile ".TextEntries\text_buildfileOptionsDetail.fetxt"
+setText($623, __TEXTPROCESS623)
+
+__TEXTPROCESS624:
+#incext ParseFile ".TextEntries\text_buildfileOptionsPanel.fetxt"
+setText($624, __TEXTPROCESS624)
+
+__TEXTPROCESS625:
+#incext ParseFile ".TextEntries\text_buildfileOptionsBurst.fetxt"
+setText($625, __TEXTPROCESS625)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT
