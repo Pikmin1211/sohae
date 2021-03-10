@@ -1,2 +1,401 @@
-#0x4E4
-NotLyn[X]
+#0x4E4 SayaName
+Saya[X]
+
+#0x4EA YekeName
+Yeke[X]
+
+#0x4E6 LynName
+Lyn[X]
+
+#0x4ED GrapeName
+Grape[X]
+
+#0x4EC RostovName
+Rostov[X]
+
+#0x4F0 SixName
+Six[X]
+
+#0x4E8 TobyName
+Toby[X]
+
+#0x4E7 TsagaanName
+Tsagaan[X]
+
+#0x4EF HelgaName
+Helga[X]
+
+#0x4EB UinName
+Uin[X]
+
+#0x4E9 GimuName
+Gimu[X]
+
+#0x4F1 AruelName
+Aruel[X]
+
+#0x4F6 RabiName
+Rabi[X]
+
+#0x4F2 EmiName
+Emi[X]
+
+#0x4F4 ElenaName
+Elena[X]
+
+#0x4FB FritzName
+Fritz[X]
+
+#0x4FC LianneName
+Lianne[X]
+
+#0x4F7 TassName
+Tass[X]
+
+#0x501 PascalName
+Pascal[X]
+
+#0x4FD RizetteName
+Rizette[X]
+
+#0x50B NikitaName
+Nikita[X]
+
+#0x4F5 RickName
+Rick[X]
+
+#0x505 FromyName
+Fromy[X]
+
+#0x4F8 EricaName
+Erica[X]
+
+#0x4FA YarrafName
+Yarraf[X]
+
+#0x4FF SandraName
+Sandra[X]
+
+#0x500 SergeyName
+Sergey[X]
+
+#0x508 LevName
+Lev[X]
+
+#0x502 CamillaName
+Camilla[X]
+
+#0x503 SimeonName
+Simeon[X]
+
+#0x50C BorisName
+Boris[X]
+
+#0x510 DorcasName
+Dorcas[X]
+
+#0x522 VinceName
+Vince[X]
+
+#0x507 TrakinaName
+Trakina[X]
+
+#0x524 FarinaName
+Farina[X]
+
+#0x504 TravisName
+Travis[X]
+
+#0x527 AhmanName
+Ahman[X]
+
+#0x513 LydiaName
+Lydia[X]
+
+#0x512 TigerName
+Tiger[X]
+
+#0x529 GideonName
+Gideon[X]
+
+#0x52F ElizaName
+Eliza[X]
+
+#0x52B EdgarName
+Edgar[X]
+
+#0x8A9 SiguneName
+Sigune[X]
+
+#0x52A KarenName
+Karen[X]
+
+#0x976 HeinrichName
+Heinrich[X]
+
+#0xB22 BrunoName
+Bruno[X]
+
+#0x517 KishunaName
+Kishuna[X]
+
+#0x86D ConradName
+Conrad[X]
+
+#0x4F3 GunsName
+Guns[X]
+
+#0xB43 JeffName
+Jeff[X]
+
+#0xB2E MilonName
+Milon[X]
+
+#0x8C0 ZaulName
+Zaul[X]
+
+#0x51C DennisName
+Dennis[X]
+
+#0x51E ScandaName
+Scanda[X]
+
+#0x520 TheseusName
+Theseus[X]
+
+#0x525 GillingName
+Gilling[X]
+
+#0x51A YakovName
+Yakov[X]
+
+#0x51B KashinName
+Kashin[X]
+
+#0x519 TeucerName
+Teucer[X]
+
+#0x523 ToorilName
+Tooril[X]
+
+#0x528 CadmusName
+Cadmus[X]
+
+#0x52E ZackaryName
+Zackary[X]
+
+#0x526 CassisName
+Cassis[X]
+
+#0x9B0 TalcottName
+Talcott[X]
+
+#0x94C AylmerName
+Aylmer[X]
+
+#0x975 GillesName
+Gilles[X]
+
+#0x542 ZephielName
+Zephiel[X]
+
+#0x5DC EliwoodName
+Eliwood[X]
+
+#0x95F DinoName
+Dino[X]
+
+#0xAA1 MontagueName
+Montague[X]
+
+#0x518 AlbanName
+Alban[X]
+
+#0xB35 DianaName
+Diana[X]
+
+#0x99D UraguchiName
+Uraguchi[X]
+
+#0x548 HolgerName
+Holger[X]
+
+#0xB32 LeoName
+Leo[X]
+
+#0x541 EnyoName
+Enyo[X]
+
+#0x52C FeelerName
+Feeler[X]
+
+#0x535 PepredName
+Pepred[X]
+
+#0xB31 OttoName
+Otto[X]
+
+#0xBC7 GuyName
+Guy[X]
+
+#0x521 ZenonName
+Zenon[X]
+
+#0x537 GuardianName
+Guardian[X]
+
+#0x8AA WarojiName
+Waroji[X]
+
+#0x8AC MergenName
+Mergen[X]
+
+#0x833 BalakahnName
+Balakahn[X]
+
+#0x872 AltajuName
+Altaju[X]
+
+#0x834 NogaiName
+Nogai[X]
+
+#0x9B5 JoelName
+Joel[X]
+
+#0x543 DayanName
+Dayan[X]
+
+#0x550 ChoroName
+Choro[X]
+
+#0x545 GalaName
+Gala[X]
+
+#0x54F FumegayName
+Fumegay[X]
+
+#0x547 GalahaName
+Galaha[X]
+
+#0x53C BodorovName
+Bodorov[X]
+
+#0x53B HarmanName
+Harman[X]
+
+#0x86B MauriceName
+Maurice[X]
+
+#0x8A7 SpencerName
+Spencer[X]
+
+#0xABA LokiName
+Loki[X]
+
+#0x5B8 ToorilName2
+Tooril[X]
+
+#0x5B7 BurgedName
+Burged[X]
+
+#0xABD AlbertoName
+Alberto[X]
+
+#0xABF PatName
+Pat[X]
+
+#0xC9D KaiduName
+Kaidu[X]
+
+#0xB94 EmonName
+Emon[X]
+
+#0xD83 NathanielName
+Nathaniel[X]
+
+#0x51F NergalName
+Nergal[X]
+
+#0x839 ThugName
+Thug[X]
+
+#0x557 BanditName
+Bandit[X]
+
+#0x55B DjuteName
+Djute[X]
+
+#0x845 BernName
+Bern[X]
+
+#0x932 AslanName
+Aslan[X]
+
+#0x4D0 BurglarName
+Burglar[X]
+
+#0x86C BDragonName
+B. Dragon[X]
+
+#0x553 CivilianName
+Civilian[X]
+
+#0x561 MorphName
+Morph[X]
+
+#0x8BE DolphinName
+Dolphin[X]
+
+#0x8A8 SigunesName
+Sigune's[X]
+
+#0x863 IliaName
+Ilia[X]
+
+#0x9AF TaniaName
+Tania[X]
+
+#0x90A PharaeName
+Pharae[X]
+
+#0xAAB SantaruzName
+Santaruz[X]
+
+#0x55F BlackFangName
+Black Fang[X]
+
+#0x92B ManaketeName
+Manakete[X]
+
+#0x8CD AssaultTroopName
+Assault Trp.[X]
+
+#0x55C OstiaName
+Ostia[X]
+
+#0x560 GuardianName2
+Guardian[X]
+
+#0x4D7 ExorcistName
+Exorcist[X]
+
+#0x93C IstrasName
+Istra's[X]
+
+#0xA32 DinoName2
+Dino[X]
+
+#0x559 RuffianName
+Ruffian[X]
+
+#0x55D BernName2
+Bern[X]
+
+#0x554 EnemyName
+Enemy[X]
+
+#0x555 WallName
+Wall[X]
+
+#0x556 SnagName
+Snag[X]

@@ -310,3 +310,75 @@ ALIGN 4
 DarkText:
 String(Dark)
 BYTE 0x0 0x0
+
+PUSH // Level up screen 2EB864
+
+//ORG 0x69544
+//POIN LevelUpText
+
+ORG 0x2EB864
+String(HP)
+BYTE 0x0
+
+ORG 0x2EB869
+String(Str)
+BYTE 0x0
+
+ORG 0x2EB86E
+String(Skl)
+BYTE 0x0
+
+ORG 0x2EB873
+String(Spd)
+BYTE 0x0
+
+ORG 0x2EB878
+String(Luck)
+BYTE 0x0
+
+ORG 0x2EB87D
+String(Def)
+BYTE 0x0
+
+ORG 0x2EB882
+String(Res)
+BYTE 0x0
+
+ORG 0x2EB887
+String(Con)
+BYTE 0x0
+
+// Magic
+ORG 0x2EB88C
+String(HP)
+BYTE 0x0
+
+ORG 0x2EB891
+String(Mag)
+BYTE 0x0
+
+ORG 0x2EB896
+String(Skl)
+BYTE 0x0
+
+ORG 0x2EB89B
+String(Spd)
+BYTE 0x0
+
+ORG 0x2EB8A0
+String(Luck)
+BYTE 0x0
+
+ORG 0x2EB8A5
+String(Def)
+BYTE 0x0
+
+ORG 0x2EB8AA
+String(Res)
+BYTE 0x0
+
+ORG 0x2EB8AF
+String(Con)
+BYTE 0x0
+
+POP
