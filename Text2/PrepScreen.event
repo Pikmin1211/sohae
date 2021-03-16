@@ -1,0 +1,38 @@
+PUSH
+
+ORG 0x42CF5C
+String(Funds)
+BYTE 0x0
+
+ORG 0x42CFA4
+String(Trade)
+BYTE 0x0
+
+ORG 0x42CFAC
+String(List)
+BYTE 0x0
+
+ORG 0x42CFB4
+String(Use)
+BYTE 0x0
+
+ORG 0x42CFBC
+String(Sell)
+BYTE 0x0
+
+ORG 0x42CF64
+String(Supply)
+BYTE 0x0
+
+ORG 0x42CF6C
+String(Dump)
+BYTE 0x0
+
+ORG 0x42CF74
+String("Choose unit")
+BYTE 0x0
+
+ORG 0x42CF84
+BYTE 0x0
+
+POP

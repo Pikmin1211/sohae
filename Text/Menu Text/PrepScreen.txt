@@ -1,0 +1,29 @@
+#0x1131 PrepPickUnits
+Pick Units[X]
+
+#0x1132 PrepItems
+Items[X]
+
+#0x113A PrepFortune
+Fortune[X]
+
+#0xF3A PrepRanking
+Ranking[X]
+
+#0xF3C PrepSupport
+Support[X]
+
+#0x1135 PrepCheckMap
+Check Map[X]
+
+#0x1134 PrepSave
+Save[X]
+
+#0x1143 PrepViewMap
+View Map[X]
+
+#0x1142 PrepFormation
+Formation[X]
+
+#0x1140 PrepOptions
+Options[X]

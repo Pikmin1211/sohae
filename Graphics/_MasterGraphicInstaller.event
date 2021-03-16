@@ -42,6 +42,9 @@ POIN SoundRoomGfx
 ORG 0xBA728
 POIN RankingGfx
 
+ORG 0x86D80
+POIN PrepSelectGfx
+
 POP
 
 ALIGN 4
@@ -91,3 +94,8 @@ SoundRoomGfx:
 ALIGN 4
 RankingGfx:
 #incbin "Dmp/5DE58C.dmp"
+
+ALIGN 4
+PrepSelectGfx:
+#incbin "Dmp/405170.dmp"
+

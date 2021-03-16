@@ -69,3 +69,13 @@ r2 - tile offset
 83290, 832b6  = 0x70
 83300 = 0x48
 83338 = 0x60
+
+8092920
+8092A1C
+
+text buffer: 202A5B0?
+
+080055dc	draw_item_text	{J}
+080056d8	draw_serif_text	{J}
+
+r1 - location to draw text from (text buffer for text table, rom location for hard)

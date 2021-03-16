@@ -14,7 +14,7 @@
 	BYTE 0x20
 
 	ORG 0x83378 // Staff Rank draw dist
-	BYTE 0x1B
+	BYTE 0x1A
 
 	ORG 0x83284 // Weapon Range draw dist
 	BYTE 0x30

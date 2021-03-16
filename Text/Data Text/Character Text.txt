@@ -13,8 +13,8 @@ Grape[X]
 #0x4EC RostovName
 Rostov[X]
 
-#0x4F0 SixName
-Six[X]
+#0x4F0 SheiksName
+Sheiks[X]
 
 #0x4E8 TobyName
 Toby[X]
@@ -25,11 +25,11 @@ Tsagaan[X]
 #0x4EF HelgaName
 Helga[X]
 
-#0x4EB UinName
-Uin[X]
+#0x4EB YuinName
+Yuin[X]
 
-#0x4E9 GimuName
-Gimu[X]
+#0x4E9 GimName
+Gim[X]
 
 #0x4F1 AruelName
 Aruel[X]
@@ -331,13 +331,10 @@ Bern[X]
 #0x932 AslanName
 Aslan[X]
 
-#0x4D0 BurglarName
-Burglar[X]
-
 #0x86C BDragonName
 B. Dragon[X]
 
-#0x553 CivilianName
+#0x553 CivilianCharName
 Civilian[X]
 
 #0x561 MorphName
@@ -364,7 +361,7 @@ Santaruz[X]
 #0x55F BlackFangName
 Black Fang[X]
 
-#0x92B ManaketeName
+#0x92B ManaketeCharName
 Manakete[X]
 
 #0x8CD AssaultTroopName

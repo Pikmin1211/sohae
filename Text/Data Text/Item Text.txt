@@ -1,0 +1,437 @@
+#0x3F8 IronSwordName
+Iron Sword[X]
+
+#0x3F9 SlimSwordName
+Slim Sword[X]
+
+#0x3FA SteelSwordName
+Steel Sword[X]
+
+#0x3FB SilverSwordName
+Silver Sword[X]
+
+#0x3FC IronBladeName
+Iron Blade[X]
+
+#0x3FD SteelBladeName
+Steel Blade[X]
+
+#0x3FE SilverBladeName
+Silver Blade[X]
+
+#0x3FF PoisonSwordName
+Poison Sword[X]
+
+#0x400 RapierName
+Rapier[X]
+
+#0x401 ManiKattiName
+Mani Katti[X]
+
+#0x403 BraveSwordName
+BraveSword[X]
+
+#0x404 WoDaoName
+Wo Dao[X]
+
+#0x405 KillingEdgeName
+Killing Edge[X]
+
+#0x406 ArmorslayerName
+Armorslayer[X]
+
+#0x407 WyrmslayerName
+Wyrmslayer[X]
+
+#0x408 LightBrandName
+Light Brand[X]
+
+#0x409 RuneswordName
+Runesword[X]
+
+#0x40A LancereaverName
+Lancereaver[X]
+
+#0x40B LongswordName
+Longsword[X]
+
+#0x40D IronLanceName
+Iron Lance[X]
+
+#0x40E SlimLanceName
+Slim Lance[X]
+
+#0x40F SteelLanceName
+Steel Lance[X]
+
+#0x410 SilverLanceName
+Silver Lance[X]
+
+#0x411 PoisonLanceName
+Poison Lance[X]
+
+#0x412 BraveLanceName
+Brave Lance[X]
+
+#0x413 KillerLanceName
+Killer Lance[X]
+
+#0x414 HorseslayerName
+Horseslayer[X]
+
+#0x415 JavelinName
+Javelin[X]
+
+#0x416 SpearName
+Spear[X]
+
+#0x417 AxereaverName
+Axereaver[X]
+
+#0x41B IronAxeName
+Iron Axe[X]
+
+#0x41C SteelAxeName
+Steel Axe[X]
+
+#0x41D SilverAxeName
+Silver Axe[X]
+
+#0x41E PoisonAxeName
+Poison Axe[X]
+
+#0x41F BraveAxeName
+Brave Axe[X]
+
+#0x420 KillerAxeName
+Killer Axe[X]
+
+#0x843 PoleaxeName
+Poleaxe[X]
+
+#0x422 HammerName
+Hammer[X]
+
+#0x423 DevilAxeName
+Devil Axe[X]
+
+#0x424 HandAxeName
+Hand Axe[X]
+
+#0x425 TomahawkName
+Tomahawk[X]
+
+#0x426 SwordreaverName
+Swordreaver[X]
+
+#0x427 SwordslayerName
+Swordslayer[X]
+
+#0x42A IronBowName
+Iron Bow[X]
+
+#0x42B SteelBowName
+Steel Bow[X]
+
+#0x42C SilverBowName
+Silver Bow[X]
+
+#0x42D PoisonBowName
+Poison Bow[X]
+
+#0x42E KillerBowName
+Killer Bow[X]
+
+#0x42F BraveBowName
+Brave Bow[X]
+
+#0x430 ShortBowName
+Short Bow[X]
+
+#0x431 LongbowName
+Longbow[X]
+
+#0x433 BallistaName
+Ballista[X]
+
+#0x434 IronBallistaName
+Iron Ballista[X]
+
+#0x435 LongBallistaName
+Long Ballista[X]
+
+#0x436 FireName
+Fire[X]
+
+#0x437 ThunderName
+Thunder[X]
+
+#0x438 ElfireName
+Elfire[X]
+
+#0x439 BoltingName
+Bolting[X]
+
+#0x43A FimbulvetrName
+Fimbulvetr[X]
+
+#0x43B ForblazeName
+Forblaze[X]
+
+#0x43C ExcaliburName
+Excalibur[X]
+
+#0x43D LightningName
+Lightning[X]
+
+#0x43E ShineName
+Shine[X]
+
+#0x43F DivineName
+Divine[X]
+
+#0x440 PurgeName
+Purge[X]
+
+#0x441 AureolaName
+Aureola[X]
+
+#0x442 LuceName
+Luce[X]
+
+#0x444 FluxName
+Flux[X]
+
+#0x445 LunaName
+Luna[X]
+
+#0x446 NosferatuName
+Nosferatu[X]
+
+#0x447 EclipseName
+Eclipse[X]
+
+#0x448 FenrirName
+Fenrir[X]
+
+#0x449 GespenstName
+Gespenst[X]
+
+#0x44B HealName
+Heal[X]
+
+#0x44C MendName
+Mend[X]
+
+#0x44D RecoverName
+Recover[X]
+
+#0x44E PhysicName
+Physic[X]
+
+#0x44F FortifyName
+Fortify[X]
+
+#0x450 RestoreName
+Restore[X]
+
+#0x451 SilenceName
+Silence[X]
+
+#0x452 SleepName
+Sleep[X]
+
+#0x453 BerserkName
+Berserk[X]
+
+#0x454 WarpName
+Warp[X]
+
+#0x455 RescueName
+Rescue[X]
+
+#0x456 TorchStaffName
+Torch[X]
+
+#0x457 HammerneName
+Hammerne[X]
+
+#0x458 UnlockName
+Unlock[X]
+
+#0x459 BarrierName
+Barrier[X]
+
+#0x48E DragonAxeName
+Dragon Axe[X]
+
+#0x45B AngelicRobeName
+Angelic Robe[X]
+
+#0x45C EnergyRingName
+Energy Ring[X]
+
+#0x45D SecretBookName
+Secret Book[X]
+
+#0x45E SpeedwingName
+Speedwing[X]
+
+#0x45F GoddessIconName
+Goddess Icon[X]
+
+#0x460 DracoshieldName
+Dracoshield[X]
+
+#0x461 TalismanName
+Talisman[X]
+
+#0x462 SwiftsolesName
+Swiftsoles[X]
+
+#0x463 BodyRingName
+Body Ring[X]
+
+#0x989 KnightProofName
+Knight Proof[X]
+
+#0x46E ChestKeyName
+Chest Key[X]
+
+#0x46F DoorKeyName
+Door Key[X]
+
+#0x470 LockpickName
+Lockpick[X]
+
+#0x471 VulneraryName
+Vulnerary[X]
+
+#0x472 ElixirName
+Elixir[X]
+
+#0x473 PureWaterName
+Pure Water[X]
+
+#0x474 AntitoxinName
+Antitoxin[X]
+
+#0x475 TorchItemName
+Torch[X]
+
+#0x476 DelphiShieldName
+Delphi Shield[X]
+
+#0x477 MemberCardName
+Member Card[X]
+
+#0x478 SilverCardName
+SilverCard[X]
+
+#0x479 WhiteGemName
+White Gem[X]
+
+#0x47A BlueGemName
+Blue Gem[X]
+
+#0x47B RedGemName
+Red Gem[X]
+
+#0x47C GoldName
+Gold[X]
+
+#0x868 JormungandrName
+Jormungandr[X]
+
+#0x864 WingclipperName
+Wingclipper[X]
+
+#0x89E HansSwordName
+Han's Sword[X]
+
+#0x840 AircaliburName
+Aircalibur[X]
+
+#0x83D YorzKattiName
+Yorz Katti[X]
+
+#0x484 FirestoneName
+Firestone[X]
+
+#0x89F DainsleifName
+Dainsleif[X]
+
+#0x486 EmblemSwordName
+Emblem Sword[X]
+
+#0x931 GreatlanceName
+Greatlance[X]
+
+#0x94D GreataxeName
+Greataxe[X]
+
+#0x94E GreatbowName
+Greatbow[X]
+
+#0x877 ExaccusName
+Exaccus[X]
+
+#0x443 ArialName
+Arial[X]
+
+#0x46A EarthSealName
+Earth Seal[X]
+
+#0x46D AfasDropsName
+Afa's Drops[X]
+
+#0x46B HeavenSealName
+Heaven Seal[X]
+
+#0x481 IronRuneName
+Iron Rune[X]
+
+#0x402 SolKattiName
+Sol Katti[X]
+
+#0x428 ShadowSwordName
+Shadow Sword[X]
+
+#0x44A EreshkigalName
+Ereshkigal[X]
+
+#0x48C DarkstoneName
+Darkstone[X]
+
+#0x40C RegalBladeName
+Regal Blade[X]
+
+#0x418 RexHastaName
+Rex Hasta[X]
+
+#0x429 BasilikosName
+Basilikos[X]
+
+#0x432 ReinflecheName
+Reinfleche[X]
+
+#0x419 HeavySpearName
+Heavy Spear[X]
+
+#0x41A ShortSpearName
+Short Spear[X]
+
+#0x8B0 AllatuIconName
+Allatu Icon[X]
+
+#0x8A3 NamtarIconName
+Namtar Icon[X]
+
+#0x48D WindSwordName
+Wind Sword[X]
+
+#0x490 DanceName
+Dance[X]
+
+#0x491 PlayName
+Play[X]
